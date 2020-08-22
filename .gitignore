@@ -1,0 +1,8 @@
+/.vscode
+/build
+/dist
+hosts.json
+scandir.spec
+/.venv
+/__pycache__
+/logs

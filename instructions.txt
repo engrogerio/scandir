@@ -1,0 +1,4 @@
+# for build an installer:
+python setup.py bdist_msi 
+or
+pyinstaller scandir.py --onefile
